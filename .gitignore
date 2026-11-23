@@ -1,0 +1,12 @@
+# Secretos y entorno local
+.env
+.venv/
+venv/
+# Archivos generados
+__pycache__/
+*.pyc
+instance/
+*.db
+*.sqlite3
+.DS_Store
+Thumbs.db
